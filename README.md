@@ -16,13 +16,13 @@ This is an example of a boardgames rental shop with an admin panel, database and
 
 ### 🎮 Choose game
 After clicking on ```🎮 Choose game``` button the bot will send limited amount of the products from the database. Limit 5. 
-Each message with product contains the image of a product, the name, price per day, price per week and price of the deposit. 
+Each message with product contains the image of a product, the name, price per day, price per week and the price of the deposit. 
 Also under the message there are two Inline buttons ```Rent 'Game name' per day``` and ```Rent 'Game name' per week```. Both add the game to the cart.
 
 ![product_bg_white](https://user-images.githubusercontent.com/99086730/163853567-16d50359-bd1c-42e6-8fc4-73732a5e996e.png)
 
 ### ✉️ Suggest a game
-Allows a user to suggest a game. The suggestions saves to the database. 
+Allows a user to suggest a game. The suggestion saves to the database. 
 
 ### 🖌 Ask
 Allows a user to ask a question. The question automatically sends to the Admin chat.
